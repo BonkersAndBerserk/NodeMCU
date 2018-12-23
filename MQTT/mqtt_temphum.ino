@@ -105,7 +105,7 @@
                         client.publish("checkin/YOUR CLIENT NAME","rebooted");
                         boot = false; 
                         
-                    }
+                    } 
 
                     if (boot == false)
                     {
