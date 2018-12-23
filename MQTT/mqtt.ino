@@ -33,7 +33,7 @@
 
 //Functions
 
-
+ 
 // Function for the initial wifi connection 
     void setup_wifi ()
     {
